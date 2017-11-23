@@ -1,7 +1,6 @@
 # lAmpparty
 Desarrollador: Codlab 
 Cliente: Swip apps 
-1. Documento descriptivo de software 
 
 Propósito
 La siguiente documentación hace referencia al análisis previo al desarrollo de la app LAmpparty para la materia de Administración de proyectos.
